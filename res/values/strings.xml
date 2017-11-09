@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">看看動物吧~~</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_zoo_list">看看動物吧~~</string>
+    <string name="title_activity_zoo_expand_list_main">看看動物吧~~</string>
+
+</resources>
